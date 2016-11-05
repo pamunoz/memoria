@@ -1,0 +1,23 @@
+
+* Resumen Bibliográfico
+
+** Rodomiro Ortiz, 2012: La adopción de la biotecnología moderna y su compatibilidad con una agricultura sustentable  
+
+De acuerdo a Ortíz la biotecnología es necesaria por una creciente demanda. Además es mucho mas practica para la medicina, la agricultura y la industria. Además la agrobiotecnología es más eficiente en el uso de los recursos y en la caracterización de las plagas y enfermedades de los cultivos.
+
+Considera a la biotecnología como una evolución de los métodos tradicionales de cultivo, e incluso métodos biológicos parecidos ya se han utilizado con productos panaderos, cerveceros, vinicultores y de quesos.
+
+La biotecnología es el aislamiento del ADN en un laboratorio para luego insertarlo en otro organismo. Para Ortíz la biotecnología debe ser parte del mejoramiento tecnológico moderno en la industria alimenticia.
+
+Las biotecnología ofrece semillas resistentes a plagas y enfermedades, con niveles reducidos de micotoxinas y con resistencia a herbicidas siendo mas útiles a la agricultura de conservación. 
+
+El "arroz dorado" por ejemplo contiene B-caroteno, que sirve para la mortalidad infantil y la ceguera asociada a la deficiencia de vitamina A(VAD).
+
+Los cultivos transgénicos también son útiles para la mitigación del cambio climático. Más de la mitad de los fertilizantes se volatiliza como óxido nitroso ( aproximadamente el 6% de las emisiones de gases invernaderos) además de contaminar las aguas y causar zonas muertas.
+
+Un importante uso que se les ha dado a los cultivos transgénicos es la resistencia a insectos a través de
+
+* Bibliografía
+
+bibliographystyle:usrtnat
+bibliography:bibliografia.bib

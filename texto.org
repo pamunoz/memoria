@@ -1,7 +1,11 @@
 
 
 * Introducción
+** Primer elemento
+** Segundo
 * Área de estudio
+** Otro elemento
+** Otro más
 * Metodología
 * Resultados
 * Conclusiones
