@@ -1,9 +1,12 @@
+#+TITLE: Resumen Bibliográfico
+#+AUTHOR: Pablo Farías
+#+DATE: Jueves 10 de Octubre, 2016
 
-* Resumen Bibliográfico
+\maketitle
 
-** Rodomiro Ortiz, 2012: La adopción de la biotecnología moderna y su compatibilidad con una agricultura sustentable  
+*  La adopción de la biotecnología moderna y su compatibilidad con una agricultura sustentable.   
 
-De acuerdo a Ortíz la biotecnología es necesaria por una creciente demanda. Además es mucho mas practica para la medicina, la agricultura y la industria. Además la agrobiotecnología es más eficiente en el uso de los recursos y en la caracterización de las plagas y enfermedades de los cultivos.
+De acuerdo a Ortíz cite:ortiz-2012-la-de la biotecnología es necesaria por una creciente demanda. Además es mucho mas practica para la medicina, la agricultura y la industria. Además la agrobiotecnología es más eficiente en el uso de los recursos y en la caracterización de las plagas y enfermedades de los cultivos.
 
 Considera a la biotecnología como una evolución de los métodos tradicionales de cultivo, e incluso métodos biológicos parecidos ya se han utilizado con productos panaderos, cerveceros, vinicultores y de quesos.
 
@@ -15,9 +18,27 @@ El "arroz dorado" por ejemplo contiene B-caroteno, que sirve para la mortalidad 
 
 Los cultivos transgénicos también son útiles para la mitigación del cambio climático. Más de la mitad de los fertilizantes se volatiliza como óxido nitroso ( aproximadamente el 6% de las emisiones de gases invernaderos) además de contaminar las aguas y causar zonas muertas.
 
-Un importante uso que se les ha dado a los cultivos transgénicos es la resistencia a insectos a través de
+Un importante uso que se les ha dado a los cultivos transgénicos es el control de plagas a través  de la inserción del gen productor de la toxina /Bacillus thuringiensis (Bt)/.  Esa toxina también controla la propagación de las plagas a los cultivos vecinos. 
 
-* Bibliografía
+También la resistencia ha herbicidas por la introducción de ciertos genes como el /glifosato/.
 
-bibliographystyle:usrtnat
+Es decir, el objetivo actual de los transgénicos es la salud de los cultivos por medio de la resistencia a las plagas, virus y mayor tolerancia a los herbicidas.
+
+El 2011 se sembraron 160 millones de hectáreas de cultivos transgénicos en 29 países del mundo. Con esto aporta al combate del cambio climático debido a que la disminución de los herbicidas que producen gases de efecto invernadero. También su eficiencia a permitido alimentar a mayor población usando menos hectáreas.
+
+En la India el algodón- /Bt/ ha aumentado su rendimiento y con esto el 50% de las ganancias de los pequeños agricultores de ese país. 
+
+El debate debe centrarse en como regular esta tecnología para que no tenga impactos negativos sociales y en la biodiversidad tanto animal como alimenticia. Además se deben considerar la gran variedad de productos ya utilizados actual mente por agricultores y el resto de la población.
+
+Los principales alimentos utilizados actualmente ya han sido considerados seguros para su consumo (principalmente maíz, soja y colza) y los métodos para este resultado han sido aprobados por el Consejo Internacional de la Ciencia (ICSU) y en común acuerdo con la Organización Mundial de la Salud (OMS) junto con la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO).
+
+Los OGM han pasado todos las pruebas sobre la salud humana y es improbable que presenten efectos negativos inesperados. Y en los países que en los que ya hace década y media ya han sido introducidos no han presentado efectos sobre la salud humana, incluyendo los riesgos potenciales.
+
+
+
+
+
+bibliographystyle:unsrt
 bibliography:bibliografia.bib
+
+#  LocalWords:  Bt glifosato OMS OGM FAO ICSU
