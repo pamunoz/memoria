@@ -34,6 +34,25 @@ Los principales alimentos utilizados actualmente ya han sido considerados seguro
 
 Los OGM han pasado todos las pruebas sobre la salud humana y es improbable que presenten efectos negativos inesperados. Y en los países que en los que ya hace década y media ya han sido introducidos no han presentado efectos sobre la salud humana, incluyendo los riesgos potenciales.
 
+El flujo transgénico no es algo peculiar de las variedades transgénicas, sino que es algo común.
+
+* Resisting and accepting: Farmers's hybrid epistemologies in the GMO controversy in Chile cite:tironi-2013-resis-accep.
+
+** Introduction: what do we talk about when we talk about farmers in Latin America?
+
+Según el movimiento Sem Terra las corporaciones solo buscan beneficio económico y crear una oligarquía controlando la producción de semillas, y así los pequeños agricultores solo podrán acudir a ellos por estos productos. Con esto el MST brasileño muestra que para ellos la resistencia a los GMOs es una acto de resistencia social.
+
+Pero a diferencia del caso brasileño, en Chile no se resiste a las ideas del capitalismo o la tecnología, sino que el movimiento en contra de los GMOs las promueve.
+
+** The GMO controversy, civic epistemologies and the purified farmer
+
+Luego de veinte años de la introducción del primer alimento genéticamente modificado, el debate se ha polarizado más aún. Además los diferentes actores en éste debate tienen posturas muy complejas y variadas.
+
+*** Towards a controversy-based definition of civic epistemologies
+
+
+
+
 
 
 
@@ -41,4 +60,7 @@ Los OGM han pasado todos las pruebas sobre la salud humana y es improbable que p
 bibliographystyle:unsrt
 bibliography:bibliografia.bib
 
-#  LocalWords:  Bt glifosato OMS OGM FAO ICSU
+#  LocalWords:  Bt glifosato OMS OGM FAO ICSU Sem Terra GMOs MST
+
+
+
