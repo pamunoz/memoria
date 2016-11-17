@@ -50,7 +50,36 @@ Luego de veinte años de la introducción del primer alimento genéticamente mod
 
 *** Towards a controversy-based definition of civic epistemologies
 
+Expandiendo en el concepto de epistemología cívica  de  Jasanoff se aplica a públicos subnacionales que se oponen a políticas especificas. Esto permite un entendimiento de los ordenes políticos que validan percepciones y opiniones. Y epistemologías cívicas tienen que ver en la forma en que la sociedad acepta postulados científicos. Estas formas de epistemología son cívicas ya que tienen que ver en como construyen, analizan, validan y deliberan conocimiento político relevante.
 
+*** Farmers and agrotech controversies in Latin America
+
+Este articulo se enfoca en los actores centrales en el debate sobre los GMOs en Latino América, los pequeños y medianos agricultores.  Ellos tienen que lidiar con la producción y con el debate sobre su aprobación. Y junto a esto, ellos tienen, como colectivo, que estar entre los científicos pro y anti-GMOs, grupos de interés y asociaciones de consumidores, y de forma pragmática resolver el conflicto.
+
+La mayoría de los estudios realización sobre los agricultores latinoamericanos han sido en una perspectiva de resistencia. Resistencia en contra fuerzas neoliberales y mercados globales.
+
+Pero esta postura debe ser revisada en el caso chileno de los grupos anti-GMOs. Ya que en Chile la postura de los pequeños y medianos agricultura están en contra y a la vez a favor del neoliberalismo como a la tecnificación.
+
+** Case and context: neoliberalism and the Chilean GMO debate 
+
+Luego del golpe de estado y la vuelta a la democracia chile se transformo en un país centrado en las exportaciones. En el caso de la agricultura Chile tiene 3 ventajas. 1) Estaciones contrarias a los lugares de exportación. 2) medio ambientes variados, y 3) aislamiento fitosanitario lo que reduce las contaminantes. Esto a traído consigo crecimiento económico pero también con esto los impactos medio ambientales y la naturaleza de las relaciones económicas y sociales en las comunidades de agricultores.
+
+Los agricultores medianos y pequeños han sido afectados en cuatro áreas.
+
++ La distribución de los beneficios económicos es muy desigual.
++ Es sector de los pequeños agricultores es dificultosa, por lo que ha ido disminuyendo.
++ La naturaleza económica y tecnológica de exportación a llevado a los agricultores e dedicarse a los monocultivos.
++ Las multinacionales han sido actores clave en el crecimiento del sector. Esto debido a que estas son las que proveen los expertos para lidiar con las demandas del sector importador.
+
+Por lo tanto la adopción de los transgénicos en Chile ocurre en un contexto económico altamente en favor del libre-mercado.
+
+La política actual de los transgénicos se restringe la producción a sólo semillas y solo para exportación sin cultivación excepto por motivos de investigación. La comercialización interna de semillas esta prohibida. Sin embargo, las importaciones de alimentos o ingredientes transgénicos para procesamiento están permitidos y hasta hace poco des-regulados. Tampoco hay exigencias en el etiquetado de ningún producto.
+
+Los primeros registros de la producción de transgénicos en Chile datan de 1992, en pocas áreas. En el 2000 la adopción de la producción transgénicas empezó a crecer por la comercialización de semillas. Y esta producción se centra principalmente en el maíz, la soya y canola.
+
+La industria de producción de semillas en Chile es muy exitosa. Mundialmente Chile es el sexto mayor productor y la industria semillera es muy importante. 
+
+*** The Chilean GMO debate
 
 
 
@@ -60,7 +89,8 @@ Luego de veinte años de la introducción del primer alimento genéticamente mod
 bibliographystyle:unsrt
 bibliography:bibliografia.bib
 
-#  LocalWords:  Bt glifosato OMS OGM FAO ICSU Sem Terra GMOs MST
+#  LocalWords:  Bt glifosato OMS OGM FAO ICSU Sem Terra GMOs MST soya
 
 
 
+#  LocalWords:  subnacionales canola semillera
