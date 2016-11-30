@@ -81,6 +81,15 @@ La industria de producción de semillas en Chile es muy exitosa. Mundialmente Ch
 
 *** The Chilean GMO debate
 
+El los noventa se creo "La Red por un Chile Libre de Transgénicos". Actualmente la campaña más exitosa y que reúne a varias organizaciones es la "Yo no quiero transgénicos" iniciada el 2011. De los grupos de agricultores tradicionales en favor de la campaña se limita al grupo de mujeres  ANAMUR. La organización de pequeños y medianos agricultores no esparte de la campaña (MUCECH). Firmas de biotecnología y compañías de semillas crearon a ong " ChileBio" para promocionar activamente y defender su posición en el dominio publico. Pero la organización oficial de lidia con la autoridad es Asociaciones de Semilleros y Exportadores de Chile.
+
+Ay que notar que los grupos de oposición no tienen mucha incidencia en el proceso regulador con excepción de algunos casos. Uno de los casos que ha ganado el grupo de oposición es que el SAG tienen que publicar las locaciones de las plantaciones de Transgénicos.
+
+Otro tema importante en el debate es la relaciones entre la propiedad y la tecnología de los Transgénicos. Chile adhirió a la convención de derechos de producción UPOV91. En el congreso se discusión el tema y los grupos de oposición reclamaban que las multinacionales de productores en detrimento de los pequeños agricultores. Sin embargo la MUCECH estaba en favor de la UPOV91.
+
+
+
+
 
 
 
@@ -93,4 +102,4 @@ bibliography:bibliografia.bib
 
 
 
-#  LocalWords:  subnacionales canola semillera
+#  LocalWords:  subnacionales canola semillera ChileBio
